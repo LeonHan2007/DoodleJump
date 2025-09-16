@@ -1,1 +1,1 @@
-A simple recreation of Doodle Jump using Java
+A simple recreation of Doodle Jump using JavaFX
